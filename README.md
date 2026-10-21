@@ -1,1 +1,2 @@
-# eventsapp_k8s
+# eventsappstart
+This is a simple events app
